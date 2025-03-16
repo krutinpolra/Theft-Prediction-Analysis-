@@ -25,7 +25,7 @@ import joblib
 
 
 #Load data
-path = "/Users/yashvichauhan/Centennial/Fall2024/COMP309/ProjectGroup2/"
+path = "/Users/krutinpolra/seneca/Fall2024/COMP309/ProjectGroup2/"
 
 filename = 'Bicycle_Thefts_Open_Data_-6397344066137313418.csv'
 
