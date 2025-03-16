@@ -1,4 +1,4 @@
-# Bicycle Theft Prediction
+# Theft-Prediction-Analysis
 
 This project predicts the likelihood of a bicycle being stolen using historical data and machine learning algorithms. By analyzing key features such as location, security measures, and time of day, the model provides insights to help reduce the risk of bike theft.
 
